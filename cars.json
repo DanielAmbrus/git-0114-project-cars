@@ -1,0 +1,44 @@
+[
+    {
+
+        "marka": "Ford",
+        "tipus": "Focus",
+        "Évjárat": 2005
+
+    },
+    {
+
+        "marka": "Suzuki",
+        "tipus": "Swift",
+        "Évjárat": 2007
+
+    },
+    {
+
+        "marka": "Audi",
+        "tipus": "A3",
+        "Évjárat": 1999
+
+    },
+    {
+
+        "marka": "Fiat",
+        "tipus": "Punto",
+        "Évjárat": 2010
+
+    },
+    {
+
+        "marka": "Renault",
+        "tipus": "Clio",
+        "Évjárat": 2019
+
+    },
+    {
+
+        "marka": "Honda",
+        "tipus": "Accord",
+        "Évjárat": 2004
+
+    }
+]
